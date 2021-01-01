@@ -14,7 +14,7 @@ Capitalizing on my time in the financial sector, Nesteggly offers a unique way o
 
 w8lifting.app is a simple, customizable weightlifting journal which I use to track my powerlifting routine. Utilizing PWA technology powered by Nuxt, it's capable of working fully offline.
 
-## Side project #3: [So Long, and Thanks For All the Bits](https://blog.cumulosoftware.com/)
+## Side project #3: [So Long, and Thanks For All the Bits](https://jamejone.github.io/)
 
 My technical blog where I write about various tech topics in long form. This project is powered by Jekyll and GitHub Pages.
 
