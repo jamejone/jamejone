@@ -22,4 +22,4 @@ My technical blog where I write about various tech topics in long form. This pro
 
 These days, the best way to get my attention is to give me a shout on social media via [Instagram](https://www.instagram.com/mrjonze) or [Twitter](https://twitter.com/james_output).
 
-If you must, you can also reach me by email at james dot russel dot jones at gmail dot com, but we warned that I may not see your message.
+If you must, you can also reach me by email at james dot russel dot jones at gmail dot com, but we warned that your message may vanish into the ether that is my inbox, never to be seen.
