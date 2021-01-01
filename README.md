@@ -6,7 +6,7 @@ I'm a software developer based out of Durham, NC, where I work remotely on Insta
 
 ## Side project #1: [Nesteggly.com](https://www.nesteggly.com)
 
-Having spent most of my career working in finance (including several years working on Schwab's robo advisor), Nesteggly offers a unique way of thinking about retirement planning in which you embrace the volality of your portfolio. This project is built with Jekyll, Webpack and Vue.
+Capitalizing on my time in the financial sector, Nesteggly offers a unique way of thinking about retirement planning in which you embrace the volality of your portfolio. This project is built with Jekyll, Webpack and Vue.
 
 ## Side project #2: [w8lifting.app](https://w8lifting.app)
 
