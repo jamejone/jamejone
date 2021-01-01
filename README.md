@@ -14,7 +14,7 @@ w8lifting.app is a simple, customizable weightlifting journal which I use to tra
 
 ## Side project #3: [So Long, and Thanks For All the Bits](https://blog.cumulosoftware.com/)
 
-My technical blog where I write about various tech topics in long form.
+My technical blog where I write about various tech topics in long form. This project is powered by Jekyll and GitHub Pages.
 
 ## How to reach me 📫
 
