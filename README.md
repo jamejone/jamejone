@@ -1,4 +1,4 @@
-# Hi, I'm James 👋
+# Hi 👋 I'm James
 
 Pronouns: he/him
 
