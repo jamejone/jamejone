@@ -1,10 +1,6 @@
 # Hi 👋 I'm James
 
-Pronouns: he/him
-
-## Welcome to my GitHub profile
-
-I'm a software developer based out of Durham, NC, where I work remotely on Instagram's entity quality platform. While that keeps me pretty busy, I occasionally carve out some time for hobby projects, like those that I contribute to here on GitHub.
+Check out some of my side projects.
 
 ## Side project #1: [Nesteggly.com](https://www.nesteggly.com)
 
