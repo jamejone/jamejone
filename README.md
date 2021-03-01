@@ -14,8 +14,10 @@ w8lifting.app is a simple, customizable weightlifting journal which I use to tra
 
 My technical blog where I write about various tech topics in long form. This project is powered by Jekyll and GitHub Pages.
 
-## How to reach me 📫
+## How to reach me
 
-These days, the best way to get my attention is to give me a shout on social media via [Instagram](https://www.instagram.com/mrjonze) or [Twitter](https://twitter.com/james_output).
+📷 [Instagram](https://www.instagram.com/mrjonze)
 
-If you must, you can also reach me by email at james dot russel dot jones 📫 gmail, but we warned that your message may instantly vanish into the ether, never to see the light of day.
+🦜 [Twitter](https://twitter.com/james_output)
+
+✉️ james dot russel dot jones 📫 gmail
