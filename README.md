@@ -4,7 +4,7 @@ Check out some of my side projects.
 
 ## [Nesteggly.com](https://www.nesteggly.com)
 
-Capitalizing on my experience in the financial sector, Nesteggly offers a unique way of thinking about retirement planning in which you embrace the volality of your portfolio. This project is built with Jekyll, Webpack and Vue.
+Financial calculators and opinions informed by my career in the financial sector. This project is built with Jekyll, Webpack and Vue.
 
 ## [w8lifting.app](https://w8lifting.app)
 
