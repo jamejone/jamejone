@@ -2,6 +2,10 @@
 
 Check out some of my side projects.
 
+## [Cooltech](https://coolte.ch)
+
+I design and sell computer 'frames' -- like a cross between a case and a test bench.
+
 ## [Nesteggly.com](https://www.nesteggly.com)
 
 Financial calculators and opinions informed by my career in the financial sector. This project is built with Jekyll, Webpack and Vue.
