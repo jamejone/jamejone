@@ -16,7 +16,7 @@ w8lifting.app is a simple, customizable weightlifting journal which I use to tra
 
 ## [So Long, and Thanks For All the Bits](https://jamejone.github.io/)
 
-My technical blog where I write about various tech topics in long form. This project is powered by Jekyll and GitHub Pages.
+My neglected blog :') This site is powered by Jekyll and GitHub Pages.
 
 ## How to reach me
 
